@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "testing"
+		},
+		{
+			"path": "auth-api-server"
+		},
+		{
+			"path": "auth-client"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true
+	}
+}
